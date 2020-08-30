@@ -1,6 +1,8 @@
 # introDS_Titanic
 ## Intro to data science using the Titanic dataset 
 
+![data plots](titanic datavisualization.png)
+Format: ![capture](https://github.com/rosiearasa/introDS_Titanic/blob/master/titanic%20datavisualization.PNG)
 ### This project covers the following concepts: 
   1. Setting up data science environment locally.
     - Visual Studio
